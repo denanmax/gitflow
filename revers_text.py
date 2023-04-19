@@ -1,4 +1,4 @@
 def reverse_text(value):
-    """reverting function to be done"""
+    """reverting function"""
     return value[::-1]
 
